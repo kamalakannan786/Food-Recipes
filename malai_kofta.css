@@ -1,0 +1,190 @@
+#logo{
+    height: 120px;
+    /* height: 150px; */
+    margin-left: 70px;
+    position: relative;
+    bottom: 30px;
+}
+
+.hyper a{
+    margin-left: 150px;
+    position: relative;
+    left: 500px; 
+   
+    bottom: 105px;
+    /* bottom: 120px; */
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    
+}
+.hyper #hyper1{
+    color: #8cc342;
+}
+.hyper a:hover{
+    color: #8cc342;
+}
+
+#line{
+    border-bottom: 1px solid gray;
+    opacity: 10%;
+    position: relative;
+    bottom: 100px;
+}
+
+#topic1{
+    margin-left: 30px;
+    position: relative;
+    bottom: 40px;
+}
+
+#topic2 #para1{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic2 #para2{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic2 #imgmk{
+    position: relative;
+    left: 300px;
+    height: 700px;
+   
+} 
+
+#topic2 #para3{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#head{
+    text-align: center;
+}
+
+#topic2 #para4{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic2 #para5{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic3 #tob{
+    margin-left: 20px;
+}
+
+#topic3 ul a{
+    color: black;
+    font-size: 25px;
+
+    
+}
+
+#topic3 ul a li{
+    margin-bottom: 15px;
+}
+
+#topic3 #para6{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic3 #para7{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#recipe{
+    text-align: center;
+}
+
+#topic3 #para8{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic3 #para9{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic3 #para10{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic3 #para11{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#topic4 #is{
+   text-align: center;
+}
+
+
+#topic4 ul li span{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#topic4 ul .list{
+    font-size: 25px;
+    margin-bottom: 50px;
+   
+}
+
+#photo{
+    background-color: #8cc342;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.heading{
+    margin-left: 20px;
+}
+
+#guide .para{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#guide ul li{
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+}
+
+#guide img{
+    height: 400px;
+    position: relative;
+    left: 400px;
+}
+
+#guide #listpara{
+    font-size: 25px;
+    
+}
+
+#guide #fifteenlist{
+    padding-left: 0px;
+}
+
+#guide #fifteenlist li{
+    margin-left: 50px;
+}
+
+#guide #lastimg{
+    height: 500px;
+    position: relative;
+    left: 400px;
+} 
+
+
+
